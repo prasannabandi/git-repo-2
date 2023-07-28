@@ -1,0 +1,2 @@
+driver.findelement(By.id("username")).sendKeys("prasanna12@gmail.com");
+add this line repo
